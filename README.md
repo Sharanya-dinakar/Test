@@ -6,3 +6,5 @@ Demo Project
 """ All the best
 
 """ Have a good day
+
+""" It's Thursday
